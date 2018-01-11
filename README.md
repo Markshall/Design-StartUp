@@ -1,6 +1,7 @@
 # Design-StartUp
-Design by Ugur Balkaya (http://www.welovefreepsd.com/downloads/start-up-website-design)
 [Preview link](http://mark-eriksson.com/work/designs/StartUp)
+
+Design by Ugur Balkaya (http://www.welovefreepsd.com/downloads/start-up-website-design)
 
 ## Features
 1. CSS animations
