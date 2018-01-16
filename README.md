@@ -7,6 +7,7 @@ Design by Ugur Balkaya (http://www.welovefreepsd.com/downloads/start-up-website-
 1. CSS animations
 2. Mobile responsive
 3. FontAwesome
+4. jQuery navigation hamburger toggle
 
 ## Previews
 
